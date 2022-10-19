@@ -45,10 +45,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "generate": "graphql-codegen --config codegen.js",
-    "prebuild": "npm run generate",
-    "prestart": "npm run generate"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
